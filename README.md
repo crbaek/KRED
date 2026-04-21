@@ -1,6 +1,11 @@
 KRED: Korea Research Economic Database for Macroeconomic Research
 
-Reference: arXiv:2509.16115
+Reference: 
+A Korean Macroeconomic Database for Data-Rich Policy Analysis and U.S.--Korea Dependence 
+
+by Changryong Baek, Seung Hyun Moon and Seunghyeon Lee
+
+arXiv:2509.16115
 
 KRED is a comprehensive dataset designed for macroeconomic analysis. It consolidates 125 key economic series starting from 1960.
 The data is aggregated from several official South Korean institutions:
