@@ -15,7 +15,7 @@ rm(list = ls())
 ############################################################
 ## User settings
 ############################################################
-workdir <- "D:/crbaek/Dropbox/KRED/github/2025"
+#workdir <- "../KRED/github/2025"
 setwd(workdir)
 
 raw_file <- "kred-Dec2025.csv"
