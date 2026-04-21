@@ -33,6 +33,6 @@ The 2025 update keeps the overall KRED structure unchanged at 125 monthly series
 
 
 ### Additional note
-- Because `ACOGNO` is now treated differently and has incomplete coverage under the updated setup, it is excluded from the 2025 balanced panel used for factor analysis. :contentReference[oaicite:7]{index=7}
+- Because `ACOGNO` is now treated differently and has incomplete coverage under the updated setup, it is excluded from the 2025 balanced panel used for factor analysis. 
 
 
