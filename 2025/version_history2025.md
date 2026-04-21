@@ -1,7 +1,7 @@
 ## 2025 update
 
 ### Summary
-The 2025 update keeps the overall KRED structure unchanged at 125 monthly series, but revises several series definitions and extends the empirical-analysis sample through 2025:12. The balanced panel used in the paper is extended from 2009:06–2024:12 to 2009:06–2025:12, and `ACOGNO` is excluded from the updated balanced panel. :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}
+The 2025 update keeps the overall KRED structure unchanged at 125 monthly series, but revises several series definitions and extends the empirical-analysis sample through 2025:12. The balanced panel used in the paper is extended from 2009:06–2024:12 to 2009:06–2025:12, and `ACOGNO` is excluded from the updated balanced panel.
 
 ### Main changes
 
