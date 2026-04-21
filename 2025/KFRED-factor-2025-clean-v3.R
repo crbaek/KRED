@@ -1,7 +1,8 @@
 rm(list = ls())
 
 ############################################################
-## KRED factor pipeline: transformation + analysis
+## KRED factor pipeline: transformation + basic factor analysis 
+## (Section 3 of the paper)
 ##
 ## Workflow
 ## 1. Read raw KRED vintage file (with group-code and tcode rows)
